@@ -1,6 +1,6 @@
 UNVERSAL ONLINE-TICKET
  
-MINIPROJECT:UNIVERSAL ONLINE TICKET MANAGEMENT SYSTEM
+Project name:onlineticket
 1.Overview of our system 
 Universal Online Ticket Management System (UOTMS) is based a web application system that can assists some passenger who can move from one place to another place in our country like from province to Kigali city vise versa .
 	User can access any company (Agence) and fill all his/here information required and get his/her ticket online by using this system.
