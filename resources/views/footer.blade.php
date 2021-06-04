@@ -1,0 +1,2 @@
+<td colspan = "7" style="background-color: violet; color: white"> <center>Copy Right &copy; UNIVERSAL Online Ticket <?php echo date("Y"); ?>, All Rights Reserved By TUYISHIME Aimable And NTAGISANIMANA Penina<center>
+	</td>
